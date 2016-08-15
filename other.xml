@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeStyleSchemesUIConfiguration">
-    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$APPLICATION_CONFIG_DIR$/codestyles/intellij-java-google-style.xml" />
-  </component>
-  <component name="PersistenceGenerationSettings">
-    <option name="addToUnit" value="true" />
-    <option name="ADD_TO_UNIT" value="true" />
-  </component>
-</application>
